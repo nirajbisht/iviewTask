@@ -1,0 +1,12 @@
+{
+    "environment":"development",
+    "host": {
+        "node": {
+            "url": "http://localhost",
+            "port": 3000
+        }
+    },
+    "dbConfig": {
+        "dbUrl": "mongodb://admin:hmhy$#----:27017/admin"
+    }    
+}
